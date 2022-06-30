@@ -1,5 +1,4 @@
-# Speech-Text-Analytic-app
-An AI web application that uses Google API to transcribe text to speech & speech to text in 6 different languages to extract meaningful features from audio speech like speech sentiment, NER and visualizing audio signals.
+
 [![forthebadge made-with-python](http://ForTheBadge.com/images/badges/made-with-python.svg)](https://www.python.org/)
 
 ![GitHub contributors](https://img.shields.io/github/contributors/chemicopy/Speech-Text-Analytic-app)
@@ -7,7 +6,7 @@ An AI web application that uses Google API to transcribe text to speech & speech
 ![GitHub repo size](https://img.shields.io/github/repo-size/chemicopy/Speech-Text-Analytic-app)
 [![GitHub stars](https://img.shields.io/github/stars/chemicopy/Speech-Text-Analytic-app?color=orange&logo=github)](https://github.com/chemicopy/Speech-Text-Analytic-app/stargazers)
 
- # Project Overview
+# Project Overview
 This is an AI web application that offers transcription of text to speech and speech to text using Google pretrained model. The goal is to extract insight from audio speech in the form of text
 
 [App Demo](https://res.cloudinary.com/dfgg73dvr/video/upload/v1624127072/ezgif.com-gif-maker_k56lry.mp4)
