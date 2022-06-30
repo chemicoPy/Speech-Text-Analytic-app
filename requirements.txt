@@ -1,6 +1,5 @@
-click<8.0
-click>=7.0
-click._bashcomplete
+click==7.0
+click-repl
 streamlit==0.82.0
 matplotlib==3.3.3
 numpy==1.19.4
