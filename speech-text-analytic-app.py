@@ -17,7 +17,7 @@
 
 # In[ ]:
 
-
+pip install 'click<8'
 import streamlit as st
 import time
 import glob
