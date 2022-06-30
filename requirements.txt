@@ -2,7 +2,6 @@ Typer
 click
 spaCy
 streamlit==0.82.0
-streamlit --upgrade
 matplotlib==3.3.3
 numpy==1.19.4
 wave==0.0.2
