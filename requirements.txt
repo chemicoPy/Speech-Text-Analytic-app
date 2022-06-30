@@ -1,5 +1,4 @@
 spaCy
--U spacy
 streamlit==0.82.0
 streamlit --upgrade
 matplotlib==3.3.3
