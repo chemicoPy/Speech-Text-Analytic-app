@@ -1,4 +1,5 @@
 spaCy
+typer
 streamlit==0.82.0
 matplotlib==3.3.3
 numpy==1.19.4
@@ -8,3 +9,5 @@ googletrans==3.1.0a0
 speechrecognition==3.8.1
 nltk==3.6.2
 spacy-streamlit==1.0.0
+click==7.0
+Exit
