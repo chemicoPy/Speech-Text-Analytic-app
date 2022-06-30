@@ -10,4 +10,5 @@ googletrans==3.1.0a0
 speechrecognition==3.8.1
 nltk==3.6.2
 spacy-streamlit==1.0.0
+click<8
 Exit
