@@ -8,5 +8,5 @@ speechrecognition==3.8.1
 nltk==3.6.2
 spacy-streamlit==1.0.0
 spacy>=2.2.0
-click-repl==0.20
+click-repl==0.2.0
 
