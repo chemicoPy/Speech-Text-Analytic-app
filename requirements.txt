@@ -6,6 +6,7 @@ gtts==2.2.2
 googletrans==3.1.0a0
 speechrecognition==3.8.1
 nltk==3.6.2
+spaCy
 spacy-streamlit==1.0.0
 spacy>=2.2.0
 Typer
