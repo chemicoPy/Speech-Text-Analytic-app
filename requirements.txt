@@ -1,5 +1,5 @@
-Typer==0.4.0
-click==7.1.1
+Typer
+click
 spaCy
 streamlit==0.82.0
 matplotlib==3.3.3
