@@ -1,0 +1,41 @@
+Requirement already satisfied: spacy in c:\users\ogunjobi victor\anaconda3\lib\site-packages (3.0.8)
+Requirement already satisfied: pydantic!=1.8,!=1.8.1,<1.9.0,>=1.7.4 in c:\users\ogunjobi victor\anaconda3\lib\site-packages (from spacy) (1.8.2)
+Collecting packaging>=20.0 (from spacy)
+  Downloading https://files.pythonhosted.org/packages/05/8e/8de486cbd03baba4deef4142bd643a3e7bbe954a784dc1bb17142572d127/packaging-21.3-py3-none-any.whl (40kB)
+Requirement already satisfied: numpy>=1.15.0 in c:\users\ogunjobi victor\anaconda3\lib\site-packages (from spacy) (1.19.4)
+Requirement already satisfied: wasabi<1.1.0,>=0.8.1 in c:\users\ogunjobi victor\anaconda3\lib\site-packages (from spacy) (0.9.1)
+Requirement already satisfied: catalogue<2.1.0,>=2.0.4 in c:\users\ogunjobi victor\anaconda3\lib\site-packages (from spacy) (2.0.7)
+Requirement already satisfied: preshed<3.1.0,>=3.0.2 in c:\users\ogunjobi victor\anaconda3\lib\site-packages (from spacy) (3.0.6)
+Requirement already satisfied: typing-extensions<4.0.0.0,>=3.7.4; python_version < "3.8" in c:\users\ogunjobi victor\anaconda3\lib\site-packages (from spacy) (3.10.0.2)
+Requirement already satisfied: blis<0.8.0,>=0.4.0 in c:\users\ogunjobi victor\anaconda3\lib\site-packages (from spacy) (0.7.8)
+Requirement already satisfied: setuptools in c:\users\ogunjobi victor\anaconda3\lib\site-packages (from spacy) (41.4.0)
+Requirement already satisfied: cymem<2.1.0,>=2.0.2 in c:\users\ogunjobi victor\anaconda3\lib\site-packages (from spacy) (2.0.6)
+Requirement already satisfied: requests<3.0.0,>=2.13.0 in c:\users\ogunjobi victor\anaconda3\lib\site-packages (from spacy) (2.22.0)
+Requirement already satisfied: thinc<8.1.0,>=8.0.3 in c:\users\ogunjobi victor\anaconda3\lib\site-packages (from spacy) (8.0.17)
+Requirement already satisfied: srsly<3.0.0,>=2.4.1 in c:\users\ogunjobi victor\anaconda3\lib\site-packages (from spacy) (2.4.3)
+Requirement already satisfied: pathy>=0.3.5 in c:\users\ogunjobi victor\anaconda3\lib\site-packages (from spacy) (0.6.2)
+Requirement already satisfied: spacy-legacy<3.1.0,>=3.0.5 in c:\users\ogunjobi victor\anaconda3\lib\site-packages (from spacy) (3.0.9)
+Requirement already satisfied: murmurhash<1.1.0,>=0.28.0 in c:\users\ogunjobi victor\anaconda3\lib\site-packages (from spacy) (1.0.7)
+Requirement already satisfied: jinja2 in c:\users\ogunjobi victor\anaconda3\lib\site-packages (from spacy) (2.10.3)
+Requirement already satisfied: tqdm<5.0.0,>=4.38.0 in c:\users\ogunjobi victor\anaconda3\lib\site-packages (from spacy) (4.64.0)
+Requirement already satisfied: typer<0.4.0,>=0.3.0 in c:\users\ogunjobi victor\anaconda3\lib\site-packages (from spacy) (0.3.2)
+Requirement already satisfied: pyparsing!=3.0.5,>=2.0.2 in c:\users\ogunjobi victor\anaconda3\lib\site-packages (from packaging>=20.0->spacy) (2.4.2)
+Requirement already satisfied: zipp>=0.5; python_version < "3.8" in c:\users\ogunjobi victor\anaconda3\lib\site-packages (from catalogue<2.1.0,>=2.0.4->spacy) (0.6.0)
+Requirement already satisfied: idna<2.9,>=2.5 in c:\users\ogunjobi victor\anaconda3\lib\site-packages (from requests<3.0.0,>=2.13.0->spacy) (2.8)
+Requirement already satisfied: chardet<3.1.0,>=3.0.2 in c:\users\ogunjobi victor\anaconda3\lib\site-packages (from requests<3.0.0,>=2.13.0->spacy) (3.0.4)
+Requirement already satisfied: urllib3!=1.25.0,!=1.25.1,<1.26,>=1.21.1 in c:\users\ogunjobi victor\anaconda3\lib\site-packages (from requests<3.0.0,>=2.13.0->spacy) (1.24.2)
+Requirement already satisfied: certifi>=2017.4.17 in c:\users\ogunjobi victor\anaconda3\lib\site-packages (from requests<3.0.0,>=2.13.0->spacy) (2019.9.11)
+Requirement already satisfied: smart-open<6.0.0,>=5.2.1 in c:\users\ogunjobi victor\anaconda3\lib\site-packages (from pathy>=0.3.5->spacy) (5.2.1)
+Requirement already satisfied: MarkupSafe>=0.23 in c:\users\ogunjobi victor\anaconda3\lib\site-packages (from jinja2->spacy) (1.1.1)
+Requirement already satisfied: colorama; platform_system == "Windows" in c:\users\ogunjobi victor\anaconda3\lib\site-packages (from tqdm<5.0.0,>=4.38.0->spacy) (0.4.1)
+Collecting click<7.2.0,>=7.1.1 (from typer<0.4.0,>=0.3.0->spacy)
+  Downloading https://files.pythonhosted.org/packages/d2/3d/fa76db83bf75c4f8d338c2fd15c8d33fdd7ad23a9b5e57eb6c5de26b430e/click-7.1.2-py2.py3-none-any.whl (82kB)
+Requirement already satisfied: more-itertools in c:\users\ogunjobi victor\anaconda3\lib\site-packages (from zipp>=0.5; python_version < "3.8"->catalogue<2.1.0,>=2.0.4->spacy) (7.2.0)
+Installing collected packages: packaging, click
+  Found existing installation: packaging 19.2
+    Uninstalling packaging-19.2:
+      Successfully uninstalled packaging-19.2
+  Found existing installation: Click 7.0
+    Uninstalling Click-7.0:
+      Successfully uninstalled Click-7.0
+Successfully installed click-7.1.2 packaging-21.3
