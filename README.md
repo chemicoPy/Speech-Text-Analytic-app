@@ -11,7 +11,7 @@ This is an AI web application that offers transcription of text to speech and sp
 
 [App Demo](https://res.cloudinary.com/dfgg73dvr/video/upload/v1624127072/ezgif.com-gif-maker_k56lry.mp4)
 
-[Live App](https://share.streamlit.io/chemicopy/Speech-Text-Analytic-app/speech-text-analytic-app.py)
+[Live App](https://chemicopy-speech-text-analytic--speech-text-analytic-app-gx6xu8.streamlitapp.com/)
 
 ## Inspiration
 The most common part of the Natural Language Processing is the written text, which is hugely available and can come in the form of documents, scraped data from websites etc. Many firms and organization rely on the processing of 
