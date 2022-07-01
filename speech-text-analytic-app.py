@@ -288,7 +288,7 @@ def main():
      # preview app demo
     demo = st.sidebar.checkbox('App Demo')
     if demo == 1:
-       st.sidebar.video('https://res.cloudinary.com/victorogunjobi/image/upload/v1656669740/samples/Text-Speech-Analytic%20app/app_demo_t2ipyk.gif', format='gif')
+       st.sidebar.video('https://res.cloudinary.com/victorogunjobi/video/upload/v1656670610/samples/Text-Speech-Analytic%20app/app_demo_qaoft2.mp4', format='mp4')
 
     st.sidebar.header("")
 
