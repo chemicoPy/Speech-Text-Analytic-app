@@ -117,7 +117,6 @@ spacy-legacy==3.0.9; python_version >= '3.6'
 spacy-loggers==1.0.2; python_version >= '3.6'
 spacy-streamlit==1.0.4
 spacy==3.3.1
-https://github.com/explosion/spacy-models/releases/download/en_core_web_sm-3.0.0/en_core_web_sm-3.0.0.tar.gz
 speechrecognition==3.8.1
 srsly==2.4.3; python_version >= '3.6'
 stack-data==0.3.0
@@ -142,3 +141,5 @@ wcwidth==0.2.5
 webencodings==0.5.1
 widgetsnbextension==3.6.1
 zipp==3.8.0; python_version >= '3.7'
+
+https://github.com/explosion/spacy-models/releases/download/en_core_web_sm-3.0.0/en_core_web_sm-3.0.0.tar.gz
