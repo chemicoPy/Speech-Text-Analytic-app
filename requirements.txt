@@ -37,8 +37,8 @@ fastjsonschema==2.15.3
 fonttools==4.33.3; python_version >= '3.7'
 gitdb==4.0.9; python_version >= '3.6'
 gitpython==3.1.27; python_version >= '3.7'
-googletrans==3.0.0 ; python_version >= '3.6'
-gtts==2.2.4; python_version >= '3.6'
+googletrans==4.0.0-rc1
+gtts==2.2.4
 h11==0.9.0
 h2==3.2.0
 hpack==3.0.0
@@ -116,7 +116,7 @@ soupsieve==2.3.2.post1; python_version >= '3.6'
 spacy-legacy==3.0.9; python_version >= '3.6'
 spacy-loggers==1.0.2; python_version >= '3.6'
 spacy-streamlit==1.0.4
-spacy==3.3.1 ; python_version >= '3.6'
+spacy==3.3.1
 speechrecognition==3.8.1
 srsly==2.4.3; python_version >= '3.6'
 stack-data==0.3.0
